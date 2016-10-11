@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+  <id7bit>-10</id7bit>
+  <id8bit>-10</id8bit>
+  <id16bit>-10</id16bit>
+  <id24bit>-10</id24bit>
+  <id32bit>-10</id32bit>
+  <id48bit>10</id48bit>
+  <id51bit>10</id51bit>
+  <enable><false/></enable>
+</Message>
+

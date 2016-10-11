@@ -1,0 +1,11 @@
+test Message ::= 
+{  
+    id7bit -15,
+    id8bit -112,
+    id16bit -200,
+    id24bit -4000,
+    id32bit 5000,
+    id48bit 60000,
+    id51bit 1416788,
+    enable FALSE
+}
