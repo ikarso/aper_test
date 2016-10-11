@@ -1,0 +1,6 @@
+ExampleOctetString DEFINITIONS ::= 
+BEGIN
+  Message ::= SEQUENCE {
+     terminalId OCTET STRING
+  }
+END
