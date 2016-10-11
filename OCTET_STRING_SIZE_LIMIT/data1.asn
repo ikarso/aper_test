@@ -1,0 +1,4 @@
+test Message ::= 
+{  
+    terminalId 'FFAA1144DD'H
+}
