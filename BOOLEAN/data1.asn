@@ -1,0 +1,6 @@
+test Message ::= 
+{  
+    pin1 TRUE,
+    pin2 FALSE,
+    pin3 FALSE
+}

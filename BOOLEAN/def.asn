@@ -1,0 +1,8 @@
+ExampleReal DEFINITIONS ::= 
+BEGIN
+  Message ::= SEQUENCE {
+     pin1 BOOLEAN,
+     pin2 BOOLEAN,
+     pin3 BOOLEAN
+  }
+END
