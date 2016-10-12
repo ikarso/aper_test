@@ -1,0 +1,9 @@
+ExampleReal DEFINITIONS ::= 
+BEGIN
+Message ::= SEQUENCE {
+	height REAL,
+	width INTEGER,
+	...,
+	weight REAL
+}
+END
